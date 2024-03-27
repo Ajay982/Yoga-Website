@@ -46,6 +46,12 @@ a {
   transition: all 0.3s ease;
 }
 
+#logo{
+  background-color: white;
+  height: 2%;
+  width: 2%;
+}
+
 a:hover,
 a:active,
 a:focus {
